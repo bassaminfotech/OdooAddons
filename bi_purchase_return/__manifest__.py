@@ -19,7 +19,7 @@
     'depends': ['base', 'purchase', 'account'],
 
     'images': [
-        'static/description/icon.png',
+        'static/description/purchase_return.png',
     ],
     'data': [
         'security/ir.model.access.csv',

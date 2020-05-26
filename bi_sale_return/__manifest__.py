@@ -18,7 +18,7 @@
 
     'depends': ['base', 'sale', 'account'],
     'images': [
-        'static/description/icon.png',
+        'static/description/sale_return.png',
     ],
     'data': [
         'security/ir.model.access.csv',
